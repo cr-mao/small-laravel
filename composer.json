@@ -1,0 +1,17 @@
+{
+    "name": "cr-mao\/small-laravel",
+    "description": "This is a small project modeled after laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cr-mao",
+            "email": "595106153@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CrMao\\SmallLaravel\\": "src"
+        }
+    }
+}
