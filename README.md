@@ -2,11 +2,14 @@
 
 <p align="center"> This is a small project modeled after laravel.</p>
 
+## Requires
+
+ PHP > 7.1.3
 
 ## Installing
 
 ```shell
-$ composer require cr-mao/small-laravel -vvv
+$ composer require cr-mao/small-laravel 
 ```
 
 ## Usage
