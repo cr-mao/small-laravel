@@ -39,6 +39,6 @@ echo PHP_EOL;
 // 契约 -》为了约束我们的服务
 $db = $app->make(CrMao\SmallLaravel\Contracts\Databases\DB::class);
  echo $db->connect();//oracle connect ready
-
+echo PHP_EOL;
 var_dump($app);
 
