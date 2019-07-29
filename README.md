@@ -14,7 +14,7 @@ $ composer require cr-mao/small-laravel
 
 ## Usage
 
-php  index.php    #run index.php and see the results
+ cp index.php  to you workpath and  run  to see results
 
 ## Contributing
 
